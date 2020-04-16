@@ -1,5 +1,5 @@
 {
-  "name": "no-dice",
+  "name": "dice-throw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
